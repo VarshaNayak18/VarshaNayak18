@@ -6,6 +6,7 @@
 ### Skills
 - Programming: Python, Java
 - Databases: MySQL
+- Frontend: HTML, CSS
 
 ### Connect with Me
 - LinkedIn: https://www.linkedin.com/in/varsha-v-nayak-799923266/
