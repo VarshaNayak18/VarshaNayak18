@@ -11,3 +11,5 @@
 ### Connect with Me
 - LinkedIn: https://www.linkedin.com/in/varsha-v-nayak-799923266/
 - Email: varshavnayak2003@gmail.com
+- Leetcode: https://leetcode.com/u/VarshaNayak18/
+- HackerRank: https://www.hackerrank.com/profile/varshavnayak2003
